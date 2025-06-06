@@ -1,11 +1,16 @@
 main:
-#  - title: "Posts"
-#    url: /posts/
   - title: "Registration"
     url: /registration/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Scientific Program"
+    url: /program/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Committees"
+    url: /committees/
+  - title: "Venue/Hotels"
+    url: /montreal/
+  - title: "Deadlines"
+    url: /deadlines/
+
+
+
