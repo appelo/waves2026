@@ -1,7 +1,7 @@
 ---
 permalink: /montreal/
 title: "Montreal"
-author_profile: false
+author_profile: true
 layout: archive
 classes: wide
 ---

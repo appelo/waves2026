@@ -1,7 +1,7 @@
 ---
 permalink: /registration/
 title: "Registration"
-author_profile: false
+author_profile: true
 layout: archive
 classes: wide
 ---
