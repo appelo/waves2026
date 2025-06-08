@@ -7,7 +7,7 @@ classes: wide
 
 The 17th International Conference on Mathematical and Numerical
 Aspects of Wave Propagation at **Concordia University in Montreal
-Canada, June 16-22 2026** is the latest in the series of very successful WAVES conferences. The conference will cover a wide range of mathematical and numerical techniques applied across disciplines. It will bring together mathematicians and physicists of all backgrounds - established researchers, postdocs and students.
+Canada, June 22-26 2026** is the latest in the series of very successful WAVES conferences. The conference will cover a wide range of mathematical and numerical techniques applied across disciplines. It will bring together mathematicians and physicists of all backgrounds - established researchers, postdocs and students.
 
 
 #### This WAVES series has held past events in:
