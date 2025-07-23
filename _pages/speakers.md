@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/
-title: "Speakers"
+title: "Invited speakers"
 author_profile: true
 layout: archive
 classes: wide

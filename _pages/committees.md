@@ -11,33 +11,33 @@ classes: wide
 <table>
   <tr>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/lmig_color_150x210.jpg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/lmig_color_150x210.jpg" height="150"/><br/>
       <sub>Lise-Marie Imbert-Gerard</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" height="150"/><br/>
       <sub>Chrysoula Tsogka</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/daniel_appelo_math.jpeg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/daniel_appelo_math.jpeg" height="150"/><br/>
       <sub>Daniel Appelo</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/hag.jpg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/hag.jpg" height="150"/><br/>
       <sub>Thomas Hagstrom</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/YML.jpg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/YML.JPG" height="150"/><br/>
       <sub>Yann-Meing Law</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/pPrudhomme.jpg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/pPrudhomme.jpg" height="150"/><br/>
       <sub>Serge Prudhomme</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/Behrooz.jpg" width="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/Behrooz.jpg" height="150"/><br/>
       <sub>Behrooz Yousefzadeh</sub>
     </td>
   </tr>

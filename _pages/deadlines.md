@@ -13,6 +13,6 @@ classes: wide
 - April 2026 - Acceptance notification for oral presentation and inclusion of two-page paper in the proceedings
 - April 2026 - Payment deadline
 - From  April to  May 2026 - Late payment (including additional fee)
-- June 2026- Registration refund claim (+ cancellation fee)
+
 
 
