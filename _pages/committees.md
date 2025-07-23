@@ -15,7 +15,7 @@ classes: wide
       <sub>Lise-Marie Imbert-Gerard</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/ct_portrait_0.jpg" height="150"/><br/>
       <sub>Chrysoula Tsogka</sub>
     </td>
     <td align="center">
