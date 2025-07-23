@@ -6,6 +6,43 @@ layout: archive
 classes: wide
 ---
 
+### Organizing committee
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/lmig_color_150x210.jpg" width="150"/><br/>
+      <sub>Lise-Marie Imbert-Gerard</sub>
+    </td>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
+      <sub>Chrysoula Tsogka</sub>
+    </td>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/daniel_appelo_math.jpeg" width="150"/><br/>
+      <sub>Daniel Appelo</sub>
+    </td>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/hag.jpg" width="150"/><br/>
+      <sub>Thomas Hagstrom</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/YML.jpg" width="150"/><br/>
+      <sub>Yann-Meing Law</sub>
+    </td>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/pPrudhomme.jpg" width="150"/><br/>
+      <sub>Serge Prudhomme</sub>
+    </td>
+    <td align="center">
+      <img src="{{ site.baseurl }}/assets/images/Behrooz.jpg" width="150"/><br/>
+      <sub>Behrooz Yousefzadeh</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### Scientific committee
 
@@ -125,43 +162,3 @@ classes: wide
 </body>
 </html>
 
-### Organizing committee
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 1</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 2</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 3</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 4</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 5</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 6</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 7</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="150"/><br/>
-      <sub>Caption 8</sub>
-    </td>
-  </tr>
-</table>
