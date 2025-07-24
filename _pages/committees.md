@@ -11,33 +11,34 @@ classes: wide
 <table>
   <tr>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/lmig_color_150x210.jpg" height="150"/><br/>
+      <img src="{{ site.baseurl
+  }}/assets/images/lmig_color_150x210.jpg" style="height: 250px"/><br/>
       <sub>Lise-Marie Imbert-Gerard</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/ct_portrait_0.jpg" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/ct_portrait_0.jpg" style="height: 250px"/><br/>
       <sub>Chrysoula Tsogka</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/daniel_appelo_math.jpeg" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/daniel_appelo_math.jpeg" style="height: 250px"/><br/>
       <sub>Daniel Appelo</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/hag.jpg" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/hag.jpg" style="height: 250px"/><br/>
       <sub>Thomas Hagstrom</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/YML.JPG" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/YML.JPG" style="height: 250px"/><br/>
       <sub>Yann-Meing Law</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/pPrudhomme.jpg" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/pPrudhomme.jpg" style="height: 250px"/><br/>
       <sub>Serge Prudhomme</sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/Behrooz.jpg" height="150"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/Behrooz.jpg" style="height: 250px"/><br/>
       <sub>Behrooz Yousefzadeh</sub>
     </td>
   </tr>
