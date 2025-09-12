@@ -6,4 +6,4 @@ layout: archive
 classes: wide
 ---
 
-BLA
+Information about the registration will be posted here. 

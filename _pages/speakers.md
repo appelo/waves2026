@@ -6,44 +6,60 @@ layout: archive
 classes: wide
 ---
 
-### Speaker list goes here
-
 
 <table>
   <tr>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 1</sub>
+      <img src="{{ site.baseurl }}/assets/images/bal.jpg" width="200"/><br/>
+      <sub>
+	  <a href="https://www.stat.uchicago.edu/~guillaumebal">Guillaume Bal
+	  </a>
+	  </sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 2</sub>
+      <img src="{{ site.baseurl }}/assets/images/isaac.jpg" width="200"/><br/>
+      <sub>
+	  <a href="https://sites.google.com/site/isaacpurduemath">Isaac Harris
+  </a>
+	  </sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 3</sub>
+      <img src="{{ site.baseurl }}/assets/images/hazard.jpg" width="200"/><br/>
+      <sub>
+	  <a href="https://www.ensta-paris.fr/en/user/234">Christophe
+  Hazard
+  </a>
+  </sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 4</sub>
+      <img src="{{ site.baseurl }}/assets/images/lilia.jpg" width="200"/><br/>
+      <sub>
+	  <a href="https://www.math.uwaterloo.ca/%7Elgk/">Lilia Krivodonova
+ </a>
+</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 5</sub>
+      <img src="{{ site.baseurl }}/assets/images/moiola.jpg" width="200"/><br/>
+      <sub>	
+	  <a href="https://mate.unipv.it/moiola/">Andrea Moiola
+  </a>
+ </sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 6</sub>
+      <img src="{{ site.baseurl }}/assets/images/Barbara.png" width="200"/><br/>
+      <sub>
+	  <a href="https://vcresearch.berkeley.edu/faculty/barbara-romanowicz">Barbara Romanowicz
+  </a>
+	  </sub>
     </td>
     <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 7</sub>
-    </td>
-    <td align="center">
-      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" width="200"/><br/>
-      <sub>Caption 8</sub>
+      <img src="{{ site.baseurl }}/assets/images/leo.png" width="200"/><br/>
+      <sub>
+	    <a href="https://research.google/people/leonardozepedanez/?&type=google">Leonardo Zepeda-Núñez
+  </a>
+  </sub>
     </td>
   </tr>
 </table>
