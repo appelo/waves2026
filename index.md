@@ -15,7 +15,7 @@ Canada, June 22-26 2026** is the latest in the series of very successful WAVES c
 - 1st Strasbourg, France, 1991
 - 2nd University of Delaware, United States, 1993
 - 3rd Mandelieu-La Napoule, France, 1995
-- 4th Boulder (CO), United States, 1998
+- 4th Golden (CO), United States, 1998
 - 5th Santiago de Compostela, Spain, 2000
 - 6th Jyväskylä, Finland, 2003
 - 7th Providence (RI), United States, 2005
