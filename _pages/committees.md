@@ -84,14 +84,32 @@ classes: wide
         <div class="column">
             <ul>
                 <li>Daniel Appelo, USA</li>
-                <li>Bojan Guzina, USA</li>
+                <li>Alex Barnett, USA</li>
+				<li>Anne-Sophie Bonnet-Ben Dhia, France</li>
+                <li>Marc Bonnet, France</li>
+                <li>Fioralba Cakoni, USA</li>
+                <li>Maxence Cassier, France</li>
+                <li>Simon Chandler-Wilde, UK</li>
+                <li>Roland Griesmaier, Germany</li>
+				<li>Bojan Guzina, USA</li>
+                <li>Houssem Haddar, France</li>
 				<li>Thomas Hagstrom, USA</li>
+			</ul>
+        </div>
+        <div class="column">
+            <ul>
+                <li>Martin Halla, Germany</li>
                 <li>Dave Hewett, UK</li>
+                <li>Thorsten Hohage, Germany</li>
                 <li>Lise-Marie Imbert-Gerard, USA</li>
+                <li>Sébastien Imperiale, France</li>
+                <li>Olivier Lafitte, France</li>
                 <li>Peter Monk, USA</li>
+                <li>Tram Nguyen, Germany</li>
 				<li>Nilima Nigam, Canada</li>
+                <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Antoine Tonnoir, France</li>
-				<li>Chrysoula Tsogka, USA</li>
+<li>Chrysoula Tsogka, USA</li>
 			</ul>
         </div>
     </div>
@@ -103,28 +121,28 @@ classes: wide
             <ul>
 				<li>Tilo Arens, Germany</li>
                 <li>Lehel Banjai, UK</li>
-                <li>Alex Barnett, USA</li>
+
                 <li>Hélène Barucq, France</li>
                 <li>Eliane Bécache, France</li>
-                <li>Anne-Sophie Bonnet-Ben Dhia, France</li>
-                <li>Marc Bonnet, France</li>
+
+
 
                 <li>Ralf Hiptmair, Switzerland</li>
-                <li>Thorsten Hohage, Germany</li>
 
-                <li>Sébastien Imperiale, France</li>
+
+
                 <li>Maryna Kachanovska, France</li>
                 <li>Manfred Kaltenbacher, Austria</li>
                 <li>Andreas Kirsch, Germany</li>
 				<li>Oscar Bruno, USA</li>
-                <li>Fioralba Cakoni, USA</li>
-                <li>Maxence Cassier, France</li>
+
+
                 <li>Stephanie Chaillat, France</li>
-                <li>Simon Chandler-Wilde, UK</li>
+
                 <li>Lucas Chesnel, France</li>
                 <li>Xavier Claeys, France</li>
                 <li>Bérengère Delourme, France</li>
-                <li>Olivier Lafitte, France</li>
+
                 <li>Christoph Lehrenfeld, Germany</li>
                 <li>Frédérique Le Louër, France</li>
                 <li>Bruno Lombard, France</li>
@@ -147,7 +165,7 @@ classes: wide
                 <li>Andrea Moiola, Italy</li>
 
                 <li>Lothar Nannen, Austria</li>
-                <li>Tram Nguyen, Germany</li>
+
                 <li>Lauri Oksanen, Finland</li>
                 <li>Konstantin Pankrashkin, Germany</li>
                 <li>Ilaria Perugia, Austria</li>
@@ -159,12 +177,12 @@ classes: wide
                 <li>Laurent Gizon, Germany</li>
                 <li>Marcus Grote, Switzerland</li>
 
-                <li>Roland Griesmaier, Germany</li>
-                <li>Houssem Haddar, France</li>
-                <li>Martin Halla, Germany</li>
+
+
+
                 <li>Christophe Hazard, France</li>
                 <li>Marlis Hochbruck, Germany</li>
-                <li>Jerónimo Rodríguez García, Spain</li>
+
                 <li>Claire Scheid, France</li>
                 <li>Euan Spence, UK</li>
 
