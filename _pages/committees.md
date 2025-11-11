@@ -88,8 +88,10 @@ classes: wide
 				<li>Thomas Hagstrom, USA</li>
                 <li>Dave Hewett, UK</li>
                 <li>Lise-Marie Imbert-Gerard, USA</li>
+                <li>Peter Monk, USA</li>
 				<li>Nilima Nigam, Canada</li>
-                <li>Chrysoula Tsogka, USA</li>
+                <li>Antoine Tonnoir, France</li>
+				<li>Chrysoula Tsogka, USA</li>
 			</ul>
         </div>
     </div>
@@ -143,7 +145,7 @@ classes: wide
                 <li>Laure Giovangigli, France</li>
                 <li>Dan Givoli, Israel</li>
                 <li>Andrea Moiola, Italy</li>
-                <li>Peter Monk, USA</li>
+
                 <li>Lothar Nannen, Austria</li>
                 <li>Tram Nguyen, Germany</li>
                 <li>Lauri Oksanen, Finland</li>
@@ -165,7 +167,7 @@ classes: wide
                 <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Claire Scheid, France</li>
                 <li>Euan Spence, UK</li>
-                <li>Antoine Tonnoir, France</li>
+
                 <li>Sebastien Tordeux, France</li>
 
                 <li>Nikolic Vanja, The Netherlands</li>
