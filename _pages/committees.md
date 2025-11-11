@@ -84,13 +84,18 @@ classes: wide
         <div class="column">
             <ul>
                 <li>Daniel Appelo, USA</li>
-                <li>Thomas Hagstrom, USA</li>
+                <li>Bojan Guzina, USA</li>
+				<li>Thomas Hagstrom, USA</li>
                 <li>Dave Hewett, UK</li>
                 <li>Lise-Marie Imbert-Gerard, USA</li>
 				<li>Nilima Nigam, Canada</li>
                 <li>Chrysoula Tsogka, USA</li>
 			</ul>
         </div>
+    </div>
+</body>
+</html>
+
 <!--
 <div class="column">
             <ul>
@@ -151,7 +156,7 @@ classes: wide
             <ul>
                 <li>Laurent Gizon, Germany</li>
                 <li>Marcus Grote, Switzerland</li>
-                <li>Bojan Guzina, USA</li>
+
                 <li>Roland Griesmaier, Germany</li>
                 <li>Houssem Haddar, France</li>
                 <li>Martin Halla, Germany</li>
@@ -166,8 +171,6 @@ classes: wide
                 <li>Nikolic Vanja, The Netherlands</li>
             </ul>
         </div>
-    </div>
+
 -->
-</body>
-</html>
 
