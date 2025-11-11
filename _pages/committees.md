@@ -78,12 +78,22 @@ classes: wide
         }
     </style>
 </head>
-<!--
+
 <body>
     <div class="container">
         <div class="column">
             <ul>
                 <li>Daniel Appelo, USA</li>
+                <li>Thomas Hagstrom, USA</li>
+                <li>Dave Hewett, UK</li>
+                <li>Lise-Marie Imbert-Gerard, USA</li>
+				<li>Nilima Nigam, Canada</li>
+                <li>Chrysoula Tsogka, USA</li>
+			</ul>
+        </div>
+<!--
+<div class="column">
+            <ul>
 				<li>Tilo Arens, Germany</li>
                 <li>Lehel Banjai, UK</li>
                 <li>Alex Barnett, USA</li>
@@ -91,19 +101,15 @@ classes: wide
                 <li>Eliane Bécache, France</li>
                 <li>Anne-Sophie Bonnet-Ben Dhia, France</li>
                 <li>Marc Bonnet, France</li>
-                <li>Thomas Hagstrom, USA</li>
+
                 <li>Ralf Hiptmair, Switzerland</li>
                 <li>Thorsten Hohage, Germany</li>
-                <li>Lise-Marie Imbert-Gerard, USA</li>
+
                 <li>Sébastien Imperiale, France</li>
                 <li>Maryna Kachanovska, France</li>
                 <li>Manfred Kaltenbacher, Austria</li>
                 <li>Andreas Kirsch, Germany</li>
-			</ul>
-        </div>
-        <div class="column">
-            <ul>
-                <li>Oscar Bruno, USA</li>
+				<li>Oscar Bruno, USA</li>
                 <li>Fioralba Cakoni, USA</li>
                 <li>Maxence Cassier, France</li>
                 <li>Stephanie Chaillat, France</li>
@@ -156,12 +162,12 @@ classes: wide
                 <li>Euan Spence, UK</li>
                 <li>Antoine Tonnoir, France</li>
                 <li>Sebastien Tordeux, France</li>
-                <li>Chrysoula Tsogka, USA</li>
+
                 <li>Nikolic Vanja, The Netherlands</li>
             </ul>
         </div>
     </div>
-</body>
 -->
+</body>
 </html>
 
