@@ -90,7 +90,8 @@ classes: wide
                 <li>Fioralba Cakoni, USA</li>
                 <li>Maxence Cassier, France</li>
                 <li>Simon Chandler-Wilde, UK</li>
-                <li>Roland Griesmaier, Germany</li>
+                <li>Florian Faucher, France</li>
+				<li>Roland Griesmaier, Germany</li>
 				<li>Bojan Guzina, USA</li>
                 <li>Houssem Haddar, France</li>
 				<li>Thomas Hagstrom, USA</li>
@@ -109,7 +110,7 @@ classes: wide
 				<li>Nilima Nigam, Canada</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Antoine Tonnoir, France</li>
-<li>Chrysoula Tsogka, USA</li>
+				<li>Chrysoula Tsogka, USA</li>
 			</ul>
         </div>
     </div>
@@ -157,7 +158,7 @@ classes: wide
                 <li>Bruno Després, France</li>
                 <li>Julien Diaz, France</li>
                 <li>Luiz Faria, France</li>
-                <li>Florian Faucher, France</li>
+
                 <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
                 <li>Laure Giovangigli, France</li>
