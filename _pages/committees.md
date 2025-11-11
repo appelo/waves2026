@@ -105,9 +105,11 @@ classes: wide
                 <li>Lise-Marie Imbert-Gerard, USA</li>
                 <li>Sébastien Imperiale, France</li>
                 <li>Olivier Lafitte, France</li>
+                <li>Andrea Moiola, Italy</li>
                 <li>Peter Monk, USA</li>
                 <li>Tram Nguyen, Germany</li>
 				<li>Nilima Nigam, Canada</li>
+                <li>Ilaria Perugia, Austria</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Antoine Tonnoir, France</li>
 				<li>Chrysoula Tsogka, USA</li>
@@ -163,13 +165,13 @@ classes: wide
                 <li>Damien Fournier, Germany</li>
                 <li>Laure Giovangigli, France</li>
                 <li>Dan Givoli, Israel</li>
-                <li>Andrea Moiola, Italy</li>
+
 
                 <li>Lothar Nannen, Austria</li>
 
                 <li>Lauri Oksanen, Finland</li>
                 <li>Konstantin Pankrashkin, Germany</li>
-                <li>Ilaria Perugia, Austria</li>
+
                 <li>Ha Pham, France</li>
             </ul>
         </div>
