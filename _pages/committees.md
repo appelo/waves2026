@@ -91,20 +91,25 @@ classes: wide
                 <li>Maxence Cassier, France</li>
                 <li>Simon Chandler-Wilde, UK</li>
                 <li>Florian Faucher, France</li>
-				<li>Roland Griesmaier, Germany</li>
-				<li>Bojan Guzina, USA</li>
-                <li>Houssem Haddar, France</li>
-				<li>Thomas Hagstrom, USA</li>
 			</ul>
         </div>
         <div class="column">
             <ul>
+                <li>Laurent Gizon, Germany</li>
+				<li>Roland Griesmaier, Germany</li>
+				<li>Bojan Guzina, USA</li>
+                <li>Houssem Haddar, France</li>
+				<li>Thomas Hagstrom, USA</li>
                 <li>Martin Halla, Germany</li>
                 <li>Dave Hewett, UK</li>
                 <li>Thorsten Hohage, Germany</li>
                 <li>Lise-Marie Imbert-Gerard, USA</li>
                 <li>Sébastien Imperiale, France</li>
                 <li>Olivier Lafitte, France</li>
+			</ul>
+        </div>
+        <div class="column">
+            <ul>
                 <li>Andrea Moiola, Italy</li>
                 <li>Peter Monk, USA</li>
                 <li>Tram Nguyen, Germany</li>
@@ -177,7 +182,7 @@ classes: wide
         </div>
         <div class="column">
             <ul>
-                <li>Laurent Gizon, Germany</li>
+
                 <li>Marcus Grote, Switzerland</li>
 
 
