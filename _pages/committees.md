@@ -78,12 +78,13 @@ classes: wide
         }
     </style>
 </head>
+<!--
 <body>
     <div class="container">
         <div class="column">
             <ul>
                 <li>Daniel Appelo, USA</li>
-                <li>Tilo Arens, Germany</li>
+				<li>Tilo Arens, Germany</li>
                 <li>Lehel Banjai, UK</li>
                 <li>Alex Barnett, USA</li>
                 <li>Hélène Barucq, France</li>
@@ -161,5 +162,6 @@ classes: wide
         </div>
     </div>
 </body>
+-->
 </html>
 
