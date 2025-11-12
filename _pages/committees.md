@@ -95,6 +95,7 @@ classes: wide
 				<li>Simon Chandler-Wilde, UK</li>
                 <li>Lucas Chesnel, France</li>
                 <li>Florian Faucher, France</li>
+                <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
                 <li>Laurent Gizon, Germany</li>
 				<li>Roland Griesmaier, Germany</li>
@@ -182,7 +183,7 @@ classes: wide
                 <li>Julien Diaz, France</li>
                 <li>Luiz Faria, France</li>
 
-                <li>Sonia Fliss, France</li>
+
 
                 <li>Laure Giovangigli, France</li>
                 <li>Dan Givoli, Israel</li>
