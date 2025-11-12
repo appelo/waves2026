@@ -90,8 +90,11 @@ classes: wide
                 <li>Marc Bonnet, France</li>
                 <li>Fioralba Cakoni, USA</li>
                 <li>Maxence Cassier, France</li>
-                <li>Simon Chandler-Wilde, UK</li>
+                <li>Stephanie Chaillat, France</li>
+				<li>Simon Chandler-Wilde, UK</li>
+                <li>Lucas Chesnel, France</li>
                 <li>Florian Faucher, France</li>
+                <li>Damien Fournier, Germany</li>
                 <li>Laurent Gizon, Germany</li>
 				<li>Roland Griesmaier, Germany</li>
 			</ul>
@@ -102,23 +105,31 @@ classes: wide
                 <li>Houssem Haddar, France</li>
 				<li>Thomas Hagstrom, USA</li>
                 <li>Martin Halla, Germany</li>
+                <li>Christophe Hazard, France</li>
                 <li>Dave Hewett, UK</li>
+                <li>Ralf Hiptmair, Switzerland</li>
                 <li>Thorsten Hohage, Germany</li>
                 <li>Lise-Marie Imbert-Gerard, USA</li>
                 <li>Sébastien Imperiale, France</li>
+                <li>Maryna Kachanovska, France</li>
+                <li>Manfred Kaltenbacher, Austria</li>
                 <li>Olivier Lafitte, France</li>
                 <li>Wangtao Lu, China</li>
 			</ul>
         </div>
         <div class="column">
             <ul>
+                <li>Axel Modave, France</li>
                 <li>Andrea Moiola, Italy</li>
                 <li>Peter Monk, USA</li>
                 <li>Tram Nguyen, Germany</li>
+                <li>Vanja Nikolic, The Netherlands</li>
 				<li>Nilima Nigam, Canada</li>
                 <li>Lauri Oksanen, Finland</li>
+                <li>Konstantin Pankrashkin, Germany</li>
                 <li>Ilaria Perugia, Austria</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
+                <li>Euan Spence, UK</li>
                 <li>Antoine Tonnoir, France</li>
 				<li>Chrysoula Tsogka, USA</li>
 			</ul>
@@ -138,19 +149,19 @@ classes: wide
 
 
 
-                <li>Ralf Hiptmair, Switzerland</li>
 
 
 
-                <li>Maryna Kachanovska, France</li>
-                <li>Manfred Kaltenbacher, Austria</li>
+
+
+
                 <li>Andreas Kirsch, Germany</li>
 				<li>Oscar Bruno, USA</li>
 
 
-                <li>Stephanie Chaillat, France</li>
 
-                <li>Lucas Chesnel, France</li>
+
+
                 <li>Xavier Claeys, France</li>
                 <li>Bérengère Delourme, France</li>
 
@@ -160,7 +171,7 @@ classes: wide
 
                 <li>Ya Yan Lu, China</li>
                 <li>Paul Martin, USA</li>
-                <li>Axel Modave, France</li>
+
             </ul>
         </div>
         <div class="column">
@@ -170,7 +181,7 @@ classes: wide
                 <li>Luiz Faria, France</li>
 
                 <li>Sonia Fliss, France</li>
-                <li>Damien Fournier, Germany</li>
+
                 <li>Laure Giovangigli, France</li>
                 <li>Dan Givoli, Israel</li>
 
@@ -178,7 +189,7 @@ classes: wide
                 <li>Lothar Nannen, Austria</li>
 
 
-                <li>Konstantin Pankrashkin, Germany</li>
+
 
                 <li>Ha Pham, France</li>
             </ul>
@@ -191,15 +202,15 @@ classes: wide
 
 
 
-                <li>Christophe Hazard, France</li>
+
                 <li>Marlis Hochbruck, Germany</li>
 
                 <li>Claire Scheid, France</li>
-                <li>Euan Spence, UK</li>
+
 
                 <li>Sebastien Tordeux, France</li>
 
-                <li>Nikolic Vanja, The Netherlands</li>
+
             </ul>
         </div>
 
