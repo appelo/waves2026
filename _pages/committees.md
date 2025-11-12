@@ -116,6 +116,7 @@ classes: wide
                 <li>Peter Monk, USA</li>
                 <li>Tram Nguyen, Germany</li>
 				<li>Nilima Nigam, Canada</li>
+                <li>Lauri Oksanen, Finland</li>
                 <li>Ilaria Perugia, Austria</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Antoine Tonnoir, France</li>
@@ -176,7 +177,7 @@ classes: wide
 
                 <li>Lothar Nannen, Austria</li>
 
-                <li>Lauri Oksanen, Finland</li>
+
                 <li>Konstantin Pankrashkin, Germany</li>
 
                 <li>Ha Pham, France</li>
