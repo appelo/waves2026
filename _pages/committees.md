@@ -84,6 +84,7 @@ classes: wide
         <div class="column">
             <ul>
                 <li>Daniel Appelo, USA</li>
+				<li>Tilo Arens, Germany</li>
                 <li>Lehel Banjai, UK</li>
 				<li>Alex Barnett, USA</li>
 				<li>Anne-Sophie Bonnet-Ben Dhia, France</li>
@@ -141,7 +142,7 @@ classes: wide
 <!--
 <div class="column">
             <ul>
-				<li>Tilo Arens, Germany</li>
+
 
 
                 <li>Hélène Barucq, France</li>
