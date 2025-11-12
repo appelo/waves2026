@@ -115,7 +115,8 @@ classes: wide
                 <li>Maryna Kachanovska, France</li>
                 <li>Manfred Kaltenbacher, Austria</li>
                 <li>Olivier Lafitte, France</li>
-                <li>Wangtao Lu, China</li>
+				<li>Yann-Meing Law-Kam</li>
+				<li>Wangtao Lu, China</li>
 			</ul>
         </div>
         <div class="column">
