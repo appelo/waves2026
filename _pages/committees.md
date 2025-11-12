@@ -132,7 +132,8 @@ classes: wide
                 <li>Konstantin Pankrashkin, Germany</li>
                 <li>Ilaria Perugia, Austria</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
-                <li>Euan Spence, UK</li>
+                <li>Tonatiuh Sánchez-Vizuet</li>
+				<li>Euan Spence, UK</li>
                 <li>Antoine Tonnoir, France</li>
 				<li>Chrysoula Tsogka, USA</li>
 			</ul>
