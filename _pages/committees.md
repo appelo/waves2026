@@ -99,7 +99,8 @@ classes: wide
                 <li>Damien Fournier, Germany</li>
                 <li>Laurent Gizon, Germany</li>
 				<li>Roland Griesmaier, Germany</li>
-			</ul>
+                <li>Marcus Grote, Switzerland</li>
+				</ul>
         </div>
         <div class="column">
             <ul>
@@ -117,6 +118,7 @@ classes: wide
                 <li>Manfred Kaltenbacher, Austria</li>
                 <li>Olivier Lafitte, France</li>
 				<li>Yann-Meing Law-Kam</li>
+                <li>Christoph Lehrenfeld, Germany</li>
 				<li>Wangtao Lu, China</li>
 			</ul>
         </div>
@@ -125,6 +127,7 @@ classes: wide
                 <li>Axel Modave, France</li>
                 <li>Andrea Moiola, Italy</li>
                 <li>Peter Monk, USA</li>
+                <li>Lothar Nannen, Austria</li>
                 <li>Tram Nguyen, Germany</li>
                 <li>Vanja Nikolic, The Netherlands</li>
 				<li>Nilima Nigam, Canada</li>
@@ -169,7 +172,7 @@ classes: wide
                 <li>Xavier Claeys, France</li>
                 <li>Bérengère Delourme, France</li>
 
-                <li>Christoph Lehrenfeld, Germany</li>
+
                 <li>Frédérique Le Louër, France</li>
                 <li>Bruno Lombard, France</li>
 
@@ -190,7 +193,7 @@ classes: wide
                 <li>Dan Givoli, Israel</li>
 
 
-                <li>Lothar Nannen, Austria</li>
+
 
 
 
@@ -201,7 +204,7 @@ classes: wide
         <div class="column">
             <ul>
 
-                <li>Marcus Grote, Switzerland</li>
+
 
 
 
