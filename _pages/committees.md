@@ -94,6 +94,7 @@ classes: wide
                 <li>Stephanie Chaillat, France</li>
 				<li>Simon Chandler-Wilde, UK</li>
                 <li>Lucas Chesnel, France</li>
+                <li>Xavier Claeys, France</li>
                 <li>Florian Faucher, France</li>
                 <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
@@ -169,7 +170,7 @@ classes: wide
 
 
 
-                <li>Xavier Claeys, France</li>
+
                 <li>Bérengère Delourme, France</li>
 
 
