@@ -8,11 +8,14 @@ classes: wide
 
 ### Deadlines:
 
-- February 2026 - Deadline for the submission of the short abstract
-- March 2026 - Two-page paper submission deadline
-- April 2026 - Acceptance notification for oral presentation and inclusion of two-page paper in the proceedings
-- April 2026 - Payment deadline
-- From  April to  May 2026 - Late payment (including additional fee)
+- December 1, 2025 - Submission of the short abstract opens
+- December 31, 2025 - Deadline to submit short abstract
+- January 15, 2026 - Notification to submit two-page extended abstracts 
+- February 1, 2026 - Deadline to submit two-page extended abstracts
+- March 1, 2026 - Registration opens (no later than March 1)
+- April 1, 2026 - Acceptance notification for oral presentation and inclusion of two-page paper in the proceedings
+- April 15, 2026 - Payment deadline early bird rate
+- XXX 2026 - Payment deadline to participate 
 
 
 
