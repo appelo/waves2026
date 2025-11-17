@@ -98,6 +98,8 @@ classes: wide
                 <li>Florian Faucher, France</li>
                 <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
+                <li>Laure Giovangigli, France</li>
+                <li>Dan Givoli, Israel</li>
                 <li>Laurent Gizon, Germany</li>
 				<li>Roland Griesmaier, Germany</li>
                 <li>Marcus Grote, Switzerland</li>
@@ -190,8 +192,8 @@ classes: wide
 
 
 
-                <li>Laure Giovangigli, France</li>
-                <li>Dan Givoli, Israel</li>
+
+
 
 
 
