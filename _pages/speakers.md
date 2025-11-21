@@ -26,7 +26,7 @@ classes: wide
     <td align="center">
       <img src="{{ site.baseurl }}/assets/images/hazard.jpg" width="200"/><br/>
       <sub>
-	  <a href="https://www.ensta-paris.fr/en/user/234">Christophe
+	  <a href="https://cv.hal.science/christophe-hazard">Christophe
   Hazard
   </a>
   </sub>

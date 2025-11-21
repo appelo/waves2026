@@ -137,6 +137,7 @@ classes: wide
                 <li>Lauri Oksanen, Finland</li>
                 <li>Konstantin Pankrashkin, Germany</li>
                 <li>Ilaria Perugia, Austria</li>
+                <li>Ha Pham, France</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Tonatiuh Sánchez-Vizuet</li>
 				<li>Euan Spence, UK</li>
@@ -201,7 +202,7 @@ classes: wide
 
 
 
-                <li>Ha Pham, France</li>
+
             </ul>
         </div>
         <div class="column">
