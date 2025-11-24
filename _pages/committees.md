@@ -95,6 +95,7 @@ classes: wide
 				<li>Simon Chandler-Wilde, UK</li>
                 <li>Lucas Chesnel, France</li>
                 <li>Xavier Claeys, France</li>
+                <li>Bérengère Delourme, France</li>
                 <li>Florian Faucher, France</li>
                 <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
@@ -139,7 +140,8 @@ classes: wide
                 <li>Ilaria Perugia, Austria</li>
                 <li>Ha Pham, France</li>
                 <li>Jerónimo Rodríguez García, Spain</li>
-                <li>Tonatiuh Sánchez-Vizuet</li>
+                <li>Olof Runborg, Sweden</li>
+				<li>Tonatiuh Sánchez-Vizuet, USA</li>
 				<li>Euan Spence, UK</li>
                 <li>Antoine Tonnoir, France</li>
 				<li>Chrysoula Tsogka, USA</li>
@@ -174,7 +176,7 @@ classes: wide
 
 
 
-                <li>Bérengère Delourme, France</li>
+
 
 
                 <li>Frédérique Le Louër, France</li>
