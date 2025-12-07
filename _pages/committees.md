@@ -96,6 +96,7 @@ classes: wide
                 <li>Lucas Chesnel, France</li>
                 <li>Xavier Claeys, France</li>
                 <li>Bérengère Delourme, France</li>
+                <li>Bruno Després, France</li>
                 <li>Florian Faucher, France</li>
                 <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
@@ -123,6 +124,7 @@ classes: wide
                 <li>Olivier Lafitte, France</li>
 				<li>Yann-Meing Law-Kam</li>
                 <li>Christoph Lehrenfeld, Germany</li>
+                <li>Frédérique Le Louër, France</li>
 				<li>Wangtao Lu, China</li>
 			</ul>
         </div>
@@ -145,6 +147,7 @@ classes: wide
 				<li>Euan Spence, UK</li>
                 <li>Antoine Tonnoir, France</li>
 				<li>Chrysoula Tsogka, USA</li>
+				<li>Jorn Zimmerling, Sweden</li>
 			</ul>
         </div>
     </div>
@@ -152,80 +155,19 @@ classes: wide
 </html>
 
 <!--
-<div class="column">
-            <ul>
-
-
-
                 <li>Hélène Barucq, France</li>
                 <li>Eliane Bécache, France</li>
-
-
-
-
-
-
-
-
-
                 <li>Andreas Kirsch, Germany</li>
 				<li>Oscar Bruno, USA</li>
 
-
-
-
-
-
-
-
-
-                <li>Frédérique Le Louër, France</li>
                 <li>Bruno Lombard, France</li>
-
                 <li>Ya Yan Lu, China</li>
                 <li>Paul Martin, USA</li>
 
-            </ul>
-        </div>
-        <div class="column">
-            <ul>
-                <li>Bruno Després, France</li>
                 <li>Julien Diaz, France</li>
                 <li>Luiz Faria, France</li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-            </ul>
-        </div>
-        <div class="column">
-            <ul>
-
-
-
-
-
-
-
                 <li>Marlis Hochbruck, Germany</li>
-
                 <li>Claire Scheid, France</li>
-
-
                 <li>Sebastien Tordeux, France</li>
-
-
-            </ul>
-        </div>
-
 -->
 
