@@ -87,6 +87,8 @@ classes: wide
 				<li>Tilo Arens, Germany</li>
                 <li>Lehel Banjai, UK</li>
 				<li>Alex Barnett, USA</li>
+                <li>Hélène Barucq, France</li>
+				<li>Eliane Bécache, France</li>
 				<li>Anne-Sophie Bonnet-Ben Dhia, France</li>
                 <li>Marc Bonnet, France</li>
                 <li>Fioralba Cakoni, USA</li>
@@ -125,6 +127,7 @@ classes: wide
 				<li>Yann-Meing Law-Kam</li>
                 <li>Christoph Lehrenfeld, Germany</li>
                 <li>Frédérique Le Louër, France</li>
+                <li>Bruno Lombard, France</li>
 				<li>Wangtao Lu, China</li>
                 <li>Paul Martin, USA</li>
 			</ul>
@@ -145,8 +148,10 @@ classes: wide
                 <li>Jerónimo Rodríguez García, Spain</li>
                 <li>Olof Runborg, Sweden</li>
 				<li>Tonatiuh Sánchez-Vizuet, USA</li>
+                <li>Claire Scheid, France</li>
 				<li>Euan Spence, UK</li>
                 <li>Antoine Tonnoir, France</li>
+                <li>Sebastien Tordeux, France</li>
 				<li>Chrysoula Tsogka, USA</li>
 				<li>Jorn Zimmerling, Sweden</li>
 			</ul>
@@ -156,19 +161,19 @@ classes: wide
 </html>
 
 <!--
-                <li>Hélène Barucq, France</li>
-                <li>Eliane Bécache, France</li>
+
+
                 <li>Andreas Kirsch, Germany</li>
 				<li>Oscar Bruno, USA</li>
 
-                <li>Bruno Lombard, France</li>
+
                 <li>Ya Yan Lu, China</li>
 
 
                 <li>Julien Diaz, France</li>
                 <li>Luiz Faria, France</li>
                 <li>Marlis Hochbruck, Germany</li>
-                <li>Claire Scheid, France</li>
-                <li>Sebastien Tordeux, France</li>
+
+
 -->
 
