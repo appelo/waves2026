@@ -126,6 +126,7 @@ classes: wide
                 <li>Christoph Lehrenfeld, Germany</li>
                 <li>Frédérique Le Louër, France</li>
 				<li>Wangtao Lu, China</li>
+                <li>Paul Martin, USA</li>
 			</ul>
         </div>
         <div class="column">
@@ -162,7 +163,7 @@ classes: wide
 
                 <li>Bruno Lombard, France</li>
                 <li>Ya Yan Lu, China</li>
-                <li>Paul Martin, USA</li>
+
 
                 <li>Julien Diaz, France</li>
                 <li>Luiz Faria, France</li>
