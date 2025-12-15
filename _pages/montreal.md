@@ -10,3 +10,21 @@ classes: wide
 
 - [Directions to Concordia](https://www.concordia.ca/maps/directions.html)
 - [Places to eat on campus](https://concordiaca.campusdish.com/LocationsAndMenus)
+
+
+### Recommended Accommodations
+
+
+| Hotel                     | Room Type                                      | Per Night (CAD) | Notes                                |
+|---------------------------|-----------------------------------------------|-----------------|--------------------------------------|
+| **SENS Hotel**           | Queen 1 bed                                  | 199             | code for discount: WAF22S           |
+|                           | Deluxe King 1 bed                            | 209             |                                      |
+|                           | Deluxe 2 double beds                         | 209             |                                      |
+| **Chateau Versailles**   | Deluxe - 1 Double bed                         | 191             | Code for discount: WAF22B           |
+|                           | Deluxe - 1 Queen bed                          | 201             |                                      |
+|                           | Deluxe - 1 King bed                           | 201             |                                      |
+| **Novotel Montreal Centre** | Standard: one king bed and pull-out couch | 239             | Group rate code: WAVES 2026         |
+|                           | Standard: two double beds                    | 249             |                                      |
+|                           | Executive Rooms: one king bed only           | 274             |                                      |
+| **Nouvel Hotel**         |                                       | 219             |                                      |
+| **Grey Nuns Residence**  |                                              |                 | 10% discount with WAVES

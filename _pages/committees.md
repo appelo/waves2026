@@ -118,6 +118,7 @@ classes: wide
                 <li>Christophe Hazard, France</li>
                 <li>Dave Hewett, UK</li>
                 <li>Ralf Hiptmair, Switzerland</li>
+                <li>Marlis Hochbruck, Germany</li>
                 <li>Thorsten Hohage, Germany</li>
                 <li>Lise-Marie Imbert-Gerard, USA</li>
                 <li>Sébastien Imperiale, France</li>
@@ -172,7 +173,7 @@ classes: wide
 
                 <li>Julien Diaz, France</li>
                 <li>Luiz Faria, France</li>
-                <li>Marlis Hochbruck, Germany</li>
+                
 
 
 -->
