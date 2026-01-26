@@ -31,5 +31,5 @@ classes: wide
 |        | 2 Queen beds                                     | 219             |                                      |
 | [**Grey Nuns Residence**](https://www.concordia.ca/summer/accommodations.html)  |                                              |                 | 10% discount with WAVES26 code
 
-[^1]: Please contact the hotel by phone (1-888-933-8111) or email (reservations@sensmtlversailles.com) to benefit from the discount. 
-[^2]: Please contact the hotel by phone (1-800-363-6063) to benefit from the discount.
+[^1]: <span style="font-size: 20%; color: black;"> Please contact the hotel by phone (1-888-933-8111) or email (reservations@sensmtlversailles.com) to benefit from the discount.</span> 
+[^2]: <span style="font-size: 200%; color: black;"> Please contact the hotel by phone (1-800-363-6063) to benefit from the discount.</span>
