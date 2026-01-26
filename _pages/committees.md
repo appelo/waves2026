@@ -125,7 +125,7 @@ classes: wide
                 <li>Maryna Kachanovska, France</li>
                 <li>Manfred Kaltenbacher, Austria</li>
                 <li>Olivier Lafitte, France</li>
-				<li>Yann-Meing Law-Kam</li>
+				<li>Yann-Meing Law, Canada</li>
                 <li>Christoph Lehrenfeld, Germany</li>
                 <li>Frédérique Le Louër, France</li>
                 <li>Bruno Lombard, France</li>
