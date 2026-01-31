@@ -102,15 +102,16 @@ classes: wide
                 <li>Florian Faucher, France</li>
                 <li>Sonia Fliss, France</li>
                 <li>Damien Fournier, Germany</li>
+                <li>Adrianna Gillman, USA</li>
                 <li>Laure Giovangigli, France</li>
                 <li>Dan Givoli, Israel</li>
                 <li>Laurent Gizon, Germany</li>
-				<li>Roland Griesmaier, Germany</li>
-                <li>Marcus Grote, Switzerland</li>
 				</ul>
         </div>
         <div class="column">
             <ul>
+				<li>Roland Griesmaier, Germany</li>
+                <li>Marcus Grote, Switzerland</li>
 				<li>Bojan Guzina, USA</li>
                 <li>Houssem Haddar, France</li>
 				<li>Thomas Hagstrom, USA</li>
