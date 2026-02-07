@@ -6,6 +6,9 @@ layout: archive
 classes: wide
 ---
 
+### Conference Venue 
+- [John Molson school of business, 1450 Guy St, Montreal, Quebec H3H 0A1, Canada](https://www.concordia.ca/jmsb.html) 
+
 ### Information about how to get to and how to navigate in Montreal
 
 - [Directions to Concordia](https://www.concordia.ca/maps/directions.html)
