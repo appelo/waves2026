@@ -16,13 +16,15 @@ classes: wide
 - XXX 2026 - Payment deadline to participate 
 
 
-Please prepare your two page abstract using the template available here:
+Please prepare your two page abstract using the template available
+here: [www.overleaf.com/read/zqbkgkqkfkwd#bcfa1c](www.overleaf.com/read/zqbkgkqkfkwd#bcfa1c)
 
-www.overleaf.com/read/zqbkgkqkfkwd#bcfa1c
+
 
 Once ready, submit the two-page abstract in PDF format as follows:
 
 Filename format: lastname.pdf
-Submission form: forms.gle/bGHjhrj27AKohJb59
+Submission [form is
+here](https://docs.google.com/forms/d/e/1FAIpQLSd-jDdcfn2-Ahkf7m3kWtx2jxQPOdVCyIyIYGRbZDwN_QVa-w/viewform)
 Please note that the Google Form will require you to sign in with a Gmail account. If you are unable to do so, please contact Daniel Appelo at appelo@vt.edu and we will provide an alternative submission method.
 
