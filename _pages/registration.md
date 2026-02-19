@@ -8,7 +8,7 @@ classes: wide
 
 Information about the registration will be posted here. 
 
-### Long abstract submission form. Closes February 20. 
+### Long abstract submission form. Closes February 27. 
 
 Please prepare your two page abstract using the template available [here](www.overleaf.com/read/zqbkgkqkfkwd#bcfa1c)
 

@@ -9,7 +9,7 @@ classes: wide
 ### Deadlines:
 
 - December 1, 2025 - Submission of the short abstract opens
-- February 20, 2026 - Deadline to submit two-page extended abstracts
+- February 27, 2026 - Deadline to submit two-page extended abstracts
 - March 1, 2026 - Registration opens 
 - April 1, 2026 - Acceptance notification for oral presentation and inclusion of two-page paper in the proceedings
 - April 15, 2026 - Payment deadline early bird rate
