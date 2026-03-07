@@ -32,7 +32,8 @@ classes: wide
 | [**Nouvel Hotel**](https://www.lenouvelhotel.com)         | 1 King bed                                     | 219             |      Group code[^2] : WAVES26                                |
 |        | 1 Queen bed                                     | 219             |                                      |                                 
 |        | 2 Queen beds                                     | 219             |                                      |
-| [**Grey Nuns Residence**](https://www.concordia.ca/summer/accommodations.html)  |                                              |                 | 10% discount with WAVES26 code
+| [**Grey Nuns Residence**](https://www.concordia.ca/summer/accommodations.html)  |                                              |                 | 10% discount with the COUPON code[^3]: WAVES26
 
 [^1]: <span style="font-size: 200%; color: black;"> Please contact the hotel by phone (1-888-933-8111) or email (reservations@sensmtlversailles.com) to benefit from the discount.</span>
-[^2]: <span style="font-size: 200%; color: black;"> Please contact the hotel by phone (1-800-363-6063) to benefit from the discount.</span>
+[^2]: <span style="font-size: 200%; color: black;"> Please contact the hotel by phone (1-800-363-6063) or make the reservation [here](https://be.synxis.com/?Hotel=23659&Chain=6063&config=FlexENRESPONSIVE&theme=LNHSen&locale=en-US&arrive=2026-06-21&depart=2026-06-22&adult=1&child=0&promo=WAVES26) to benefit from the discount.</span>
+[^3]: <span style="font-size: 200%; color: black;"> To benefit the discount, you **must** use the COUPON code when making your reservation.</span>
