@@ -6,7 +6,8 @@ layout: archive
 classes: wide
 ---
 
-Information about the registration will be posted here. 
+Information about the registration will be posted here. We expect that
+it will open in late March. 
 
 ### Long abstract submission form. Closes February 27. 
 
