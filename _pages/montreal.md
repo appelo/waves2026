@@ -13,6 +13,7 @@ classes: wide
 
 - [Directions to Concordia](https://www.concordia.ca/maps/directions.html)
 - [Places to eat on campus](https://concordiaca.campusdish.com/LocationsAndMenus)
+- [Activities suggested by Tourisme Montrea](https://www.mtl.org/en/what-to-do/festivals-and-events?_filter_events_sub_categories=Music&_event_all_dates=1782086400:1782432000)
 
 
 ### Recommended Accommodations

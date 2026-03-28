@@ -13,7 +13,7 @@ classes: wide
 - End of March, 2026 - Registration opens 
 - April 1, 2026 - Acceptance notification for oral presentation and inclusion of two-page paper in the proceedings
 - April 15, 2026 - Payment deadline early bird rate
-- XXX 2026 - Payment deadline to participate 
+- June 26, 2026 - Payment deadline to participate 
 
 
 Please prepare your two page abstract using the template available
