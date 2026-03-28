@@ -11,6 +11,15 @@ classes: wide
 - **April 15, 2026 - Payment deadline early bird rate**
 - **June 26, 2026 - Payment deadline to participate** 
 
+| Registration Type | Available From | Available Until | Nominal Price (CAD, before tax) | Price Charged (CAD, after tax) | Price (EUR, after tax) | Price (USD, after tax) |
+|---|---|---|---|---|---|---|
+| Early-bird registration | March 23 | Apr 15 | $695.00 | $799.08 | €505.82 | $583.33 |
+| Early-bird student registration | March 23 | Apr 15 | $495.00 | $569.13 | €360.26 | $415.46 |
+| Regular registration | Apr 16 | June 26 | $795.00 | $914.05 | €578.59 | $667.26 |
+| Regular student registration | Apr 16 | June 26 | $525.00 | $603.62 | €382.09 | $440.64 |
+
+*All payments are made in Canadian dollars. The amounts in Euros and USD are estimates based on the exchange rates posted by Bank of Canada on Mar 17, 2026.*
+
 
 ### Travel support: 
 
