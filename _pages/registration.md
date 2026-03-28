@@ -6,8 +6,8 @@ layout: archive
 classes: wide
 ---
 
-Information about the registration will be posted here. We expect that
-it will open in late March. 
+<div><a href="https://sites.events.concordia.ca/sites/concordia/en/waves-2026/register" target="_blank"><img src="https://static.grenadine.co/images/register-now-en.png" style="width: 250px; height: auto;" alt="Register Now" /></a></div>
+
 
 ### Long abstract submission form. Closes February 27. 
 
