@@ -12,7 +12,7 @@ classes: wide
 - **June 26, 2026 - Payment deadline to participate** 
 
 
-###Travel support: 
+### Travel support: 
 
 - A limited amount of travel support is available to students based at Canadian universities. You can apply for this travel support during registration. You will need to upload a single pdf document containing the following: one-page cover letter describing your need for travel support, your CV, a copy of your student ID. 
 
