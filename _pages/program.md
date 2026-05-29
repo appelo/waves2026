@@ -6,11 +6,8 @@ layout: archive
 classes: wide
 ---
 
-The program will be posted here. 
+## The program is [here](https://www.waves2026.org/assets/Waves2026_schedule.pdf) 
 
-**Note that Wednesday June 24 will be the social day (coinciding with
-Fête Nationale du Québec) and we expect to have a full day on Friday
-June 26.**
 
 ## WAVES2026 Code of Conduct
 
@@ -46,3 +43,5 @@ Upon receipt of a complaint, the organizing committee will review the matter and
 
 This Code of Conduct will be distributed to all registered participants prior to the conference via email and will be prominently displayed on the conference website. It will also be made available at the registration desk and other visible locations throughout the conference venue.
 
+## Fight against food waste
+We partner with La tablée des chefs to participate in the fight against food waste. You can find more information at the [following link.](https://www.tableedeschefs.org/en/)
