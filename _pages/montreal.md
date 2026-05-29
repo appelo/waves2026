@@ -18,6 +18,9 @@ classes: wide
 
 ### Recommended Accommodations
 
+### &#9888; Please note that the deadlines for preferential rates have now passed; rates may therefore be subject to change and remain subject to availability.
+
+
 
 | Hotel                     | Room Type                                      | Per Night (CAD) | Notes                                |
 |---------------------------|-----------------------------------------------|-----------------|--------------------------------------|
