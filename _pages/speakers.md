@@ -40,13 +40,6 @@ classes: wide
     </td>
   </tr>
 <tr>
-<td align="center">
-      <img src="{{ site.baseurl }}/assets/images/Mayboroda.png" width="200"/><br/>
-      <sub>
-	  <a href="https://people.math.ethz.ch/~smayboroda/">	Svitlana Mayboroda
- </a>
-</sub>
-    </td>
     <td align="center">
       <img src="{{ site.baseurl }}/assets/images/moiola.jpg" width="200"/><br/>
       <sub>	
