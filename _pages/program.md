@@ -6,6 +6,8 @@ layout: archive
 classes: wide
 ---
 
+## The registration desk will be open on Sunday, June 21, from 4:00 p.m. to 6:00 p.m. in the atrium of the John Molson School of Business.
+
 ## The program is [here](https://www.waves2026.org/assets/Waves2026_schedule.pdf) 
 
 
