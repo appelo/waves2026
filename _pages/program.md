@@ -10,6 +10,10 @@ classes: wide
 
 ## The program is [here](https://www.waves2026.org/assets/Waves2026_schedule.pdf) 
 
+## The book of abstracts is [here](https://www.waves2026.org/assets/Waves_2026_book_of_abstracts.pdf) *NOTE that this is a large file and best downloaded and viewed locally*
+
+
+
 
 ## WAVES2026 Code of Conduct
 
