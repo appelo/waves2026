@@ -20,6 +20,8 @@ classes: wide
 
 *All payments are made in Canadian dollars. The amounts in Euros and USD are estimates based on the exchange rates posted by Bank of Canada on Mar 17, 2026.*
 
+*Please note that lunches are not included in the registration fees.*
+
 
 ### Travel support: 
 
