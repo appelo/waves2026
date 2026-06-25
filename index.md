@@ -29,3 +29,14 @@ Canada, June 22-26 2026** is the latest in the series of very successful WAVES c
 - 15th [Palaiseau, France, 2022](https://waves2022.apps.math.cnrs.fr)
 - 16th [Berlin, Germany, 2024](https://waves2024.mps.mpg.de)
 
+#### Banquet directions 
+The banquet is at a location off campus. The street address is [1 Pl. Ville-Marie](https://maps.app.goo.gl/TUXkqWWW76g8LhgG8
+). If you use the entrance on Blvd Robert-Bourassa, then you will need to take the second set of elevators to level M2. There will be signs to guide you after that. 
+ 
+Detailed directions are also available [here](
+https://users.encs.concordia.ca/~behroozy/wp-content/uploads/2026/06/WAVES_banquet.pdf).
+ 
+If you have indicated food allergies, please see one of the organizers before taking your seat. 
+ 
+Please make sure to bring your name tags with you. 
+
